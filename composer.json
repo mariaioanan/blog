@@ -1,0 +1,9 @@
+{
+    "require": {
+        "php": "^8.0",
+        "monolog/monolog": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {"Blog\\": "src/"}
+    }
+}
